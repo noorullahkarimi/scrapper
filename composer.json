@@ -1,0 +1,20 @@
+{
+    "name": "lenovo/scrapper-saleh-project-book",
+    "description": "5454",
+    "type": "project",
+    "require": {
+        "fabpot/goutte": "^v4.0.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\ScrapperSalehProjectBook\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "norullah",
+            "email": "norullah266.nk86@gmail.com"
+        }
+    ]
+}
